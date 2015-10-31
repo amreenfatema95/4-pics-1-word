@@ -1,10 +1,10 @@
-# Minesweeper #
+# 4 Pics 1 Word #
 
 ### Author ###
 Amreen Fatima S Surani
 
 ### Date ###
-March 3, 2015
+March 2015
 
 
 1. INTRODUCTION
@@ -33,5 +33,7 @@ If the application is being initiated through a command line interface, then the
 java -cp bin game.FourPictures
 
 The following assumptions apply:
+
 * All class files are in the bin folder, and
-* Package is called minesweeper
+
+* Package is called game
